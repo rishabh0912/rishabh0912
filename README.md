@@ -42,17 +42,6 @@ I'm an Enterprise Architect with 15+ years designing and building large-scale sy
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh0912&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh0912" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
